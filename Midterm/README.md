@@ -1,2 +1,2 @@
 # Spencer Whan - BUS0007
-Midterm can be found within this folder.
+Archive of the midterm can be found within this folder.
